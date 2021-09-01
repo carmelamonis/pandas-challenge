@@ -5,7 +5,7 @@ With almost 40,000 students within the district, I looked at the district-wide s
 ## Scope
 
 Before performing any aggregations for analysis, both datasets had to be loaded in using Pandas, and stored as Pandas Dataframes. Then the next step was to combine both dataframes into one dataframe to be able to include school information with the student information.
-![Combined Data](images/combined.png)
+![Combined Data](PyCitySchools/images/combined.png)
 
 I created Python scripts in order to manipulate the original dataframe to create new dataframes that show us:
  - District Summary
