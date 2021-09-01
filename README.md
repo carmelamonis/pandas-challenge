@@ -30,4 +30,5 @@ I created Python scripts in order to manipulate the original dataframe to create
  - Top and Bottom Performing Schools
  - Math and Reading Scores by Grade
 
-### Last two bullet notes can be found in Jupyter Notebook file.
+### Note
+Last two bullet notes can be found in Jupyter Notebook file.
