@@ -1,6 +1,6 @@
 ## Summary
 
-With almost 40,000 students within the district, I looked at the district-wide standard test results (found in the [students_complete.csv](data/student_complete.csv)) among  15 schools, with their data found in [schools_complete.csv](data/schools_complete.csv)). My goal is to use Jupyter Notebook and Pandas to aggregate the data in order to showcase trends in school performance. 
+With almost 40,000 students within the district, I looked at the district-wide standard test results (found in the [students_complete.csv](data/student_complete.csv)) among  15 schools, with their data found in [schools_complete.csv](data/schools_complete.csv). My goal is to use Jupyter Notebook and Pandas to aggregate the data in order to showcase trends in school performance. 
 
 ## Scope
 
